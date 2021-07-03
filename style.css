@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  background-image: url(img/perpustakaan.jpg);
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  color: white;
+  margin-top: 15px;
+}
+
+.col {
+  margin-top: 10px;
+}
+
+#menu {
+  color: white;
+}
+
+#populer {
+  margin-top: 15px;
+  color: white;
+}
+
+h6 {
+  text-align: center;
+  background-color: blue;
+}
+
+.card-body {
+  background-color: #88877c;
+}
